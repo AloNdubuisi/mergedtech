@@ -17,7 +17,7 @@ export default function Community() {
       role: "Sennior Software Engineer & COO",
       achievement: "Shipped 3 products in 6 months",
       color: "bg-blue-500",
-      initials: "OC",
+      initials: "OC ",
     },
     {
       name: "Ohuka Ikenna Valentine",
