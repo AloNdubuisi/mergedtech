@@ -17,21 +17,21 @@ export default function Community() {
       role: "Sennior Software Engineer & COO",
       achievement: "Shipped 3 products in 6 months",
       color: "bg-blue-500",
-      initials: "SC",
+      initials: "OC",
     },
     {
       name: "Ohuka Ikenna Valentine",
       role: "Senior DevOps Engineer & CTO",
       achievement: "Built scalable infrastructure",
       color: "bg-purple-500",
-      initials: "AR",
+      initials: "IV",
     },
     {
       name: "Alo Ndubuisi",
       role: "Middlewel Software Developer & CFO",
       achievement: "Led 10+ mentorship sessions",
       color: "bg-emerald-500",
-      initials: "JK",
+      initials: "AN",
     },
   ]
 
