@@ -13,22 +13,22 @@ import CommunityCard from "@/components/layout/community-card"
 export default function Community() {
   const communityHighlights = [
     {
-      name: "Sarah Chen",
-      role: "Full Stack Developer",
+      name: "Okories Chukwudi",
+      role: "Sennior Software Engineer & COO",
       achievement: "Shipped 3 products in 6 months",
       color: "bg-blue-500",
       initials: "SC",
     },
     {
-      name: "Alex Rodriguez",
-      role: "DevOps Engineer",
+      name: "Ohuka Ikenna Valentine",
+      role: "Senior DevOps Engineer & CTO",
       achievement: "Built scalable infrastructure",
       color: "bg-purple-500",
       initials: "AR",
     },
     {
-      name: "Jordan Kim",
-      role: "Product Manager",
+      name: "Alo Ndubuisi",
+      role: "Middlewel Software Developer & CFO",
       achievement: "Led 10+ mentorship sessions",
       color: "bg-emerald-500",
       initials: "JK",
