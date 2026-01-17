@@ -52,21 +52,6 @@ export default function Community() {
             <CommunityCard key={index} {...member} />
           ))}
         </div>
-
-        {/* Community Stats */}
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-6 bg-card/50 rounded-lg p-8 border border-border">
-          {[
-            { label: "Active Members", value: "10,000+" },
-            { label: "Daily Conversations", value: "5,000+" },
-            { label: "Projects Shipped", value: "2,500+" },
-            { label: "Countries", value: "95+" },
-          ].map((stat, index) => (
-            <div key={index} className="text-center">
-              <p className="text-3xl sm:text-4xl font-bold text-primary mb-2">{stat.value}</p>
-              <p className="text-sm text-muted-foreground">{stat.label}</p>
-            </div>
-          ))}
-        </div>
       </div>
     </section>
   )
